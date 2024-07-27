@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mar! Programmer, Math lover and relentless bug hunter.</h1>
+<h1>Hi, welcome to my GitHub!</h1>
 
 <h2> Software Development Projects:</h2>
 
