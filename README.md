@@ -2,8 +2,11 @@
 
 <h2> Software Development Projects:</h2>
 
-- <b>C++</b>
-  - https://github.com/MarMar001/Cplusplus
+
+
 - <b>PYTHON</b>
   - Battleship game  ---->  https://github.com/MarMar001/Battleship_Game
+ 
+- <b>C++</b>
+  - https://github.com/MarMar001/Cplusplus
 
